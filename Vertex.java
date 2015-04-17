@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Random;
-
+//njhgufuy
 import static jdk.nashorn.internal.objects.NativeMath.random;
 
 public class Vertex {
